@@ -1,14 +1,10 @@
 # SubredditAnalysisOf-R-Funny
 Scrapped Data and Made a Tableau Dashboard
-Subreddit Analysis
-Of
-R/Funny
-Project Done By:
-Shiya Mer
-Roll no:102117045
-3CS2
+
+
 Data Collection:
 Data collected using Praw API.
+
 Collected Top Posts
 Features Collected were:
 Index(['title', 'author', 'date', 'timestamp',
@@ -16,6 +12,8 @@ Index(['title', 'author', 'date', 'timestamp',
  'up_ratio', 'total_awards_received',
 'golds', 'cross_posts',
  'No.of.comments' ]dtype='object')
+
+ 
 Data PreProcessing:
 Cleaning: Removal of Missing Values
 For making a word cloud in Dashboard, I
